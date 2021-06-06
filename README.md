@@ -1,1 +1,2 @@
-# owngame-maze
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
